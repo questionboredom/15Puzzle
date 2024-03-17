@@ -1,5 +1,7 @@
 N-square puzzle built using SFML 2.6 library (https://www.sfml-dev.org/download/sfml/old-versions.php)
 
+Puzzle is solved by moving tiles to the empty space until it reaches solved state.
+
 5-square Puzzle (Number)
 
 <img width="404" alt="image" src="https://github.com/questionboredom/15Puzzle/assets/140790581/6a858ec9-a3d3-4e90-91fb-b2699d663c2c">
